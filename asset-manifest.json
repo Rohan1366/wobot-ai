@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wobot-ai/static/css/main.e5039772.css",
+    "main.css": "/wobot-ai/static/css/main.8e320197.css",
     "main.js": "/wobot-ai/static/js/main.768078b6.js",
     "static/js/787.3072eae8.chunk.js": "/wobot-ai/static/js/787.3072eae8.chunk.js",
     "static/media/background.jpg": "/wobot-ai/static/media/background.7c8a677c91885f913c10.jpg",
@@ -8,12 +8,12 @@
     "static/media/wobotlogo.jpg": "/wobot-ai/static/media/wobotlogo.9497cb2024bf299716d5.jpg",
     "static/media/logo.svg": "/wobot-ai/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/wobot-ai/index.html",
-    "main.e5039772.css.map": "/wobot-ai/static/css/main.e5039772.css.map",
+    "main.8e320197.css.map": "/wobot-ai/static/css/main.8e320197.css.map",
     "main.768078b6.js.map": "/wobot-ai/static/js/main.768078b6.js.map",
     "787.3072eae8.chunk.js.map": "/wobot-ai/static/js/787.3072eae8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5039772.css",
+    "static/css/main.8e320197.css",
     "static/js/main.768078b6.js"
   ]
 }
