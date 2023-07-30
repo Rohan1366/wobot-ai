@@ -160,6 +160,10 @@ a{
   .profile_section{
     margin-left: 40px;
   }
+  .homepage{
+    height: 700px;
+    margin-top: -40px;
+  }
 }
 @media (min-width: 995px) and (max-width:1200px) {
   button{
@@ -168,5 +172,6 @@ a{
   .homepage {
     width: 500px;
     margin-left: -90px;
+    
   }
 }
